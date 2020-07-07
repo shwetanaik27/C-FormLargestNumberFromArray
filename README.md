@@ -2,11 +2,11 @@
 Form largest number from the elements of an array.
 Language: C#
 
-# Input/Output
-Input: { 57,9,75,7,79,53,5,63 }
-Output: 9797756357553
+## Input/Output
+1. Input: { 57,9,75,7,79,53,5,63 } 
+2. Output: 9797756357553
 
-# Logic
+## Logic
 1. Convert an array of int to array of string
 2. Sort the array into descending order.
 3. There is an issue here where 75 comes before 7. For such cases,
